@@ -1,10 +1,11 @@
 body{
     background-color: yellow;
 }
-li{color:brown;font-size: 20px;
 
+li{
+    display: inline;
 }
 img
 {
-    width: 250px;
+
 }
